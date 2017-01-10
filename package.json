@@ -1,0 +1,13 @@
+{
+  "name": "pixi-buckle",
+  "version": "0.0.1",
+  "description": "A BuckleScript wrapper for PixiJS",
+  "keywords": [
+    "bucklescript", "pixijs"
+  ],
+  "author": "Paul Carleton",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "4.3.0"
+  }
+}
