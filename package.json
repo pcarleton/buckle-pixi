@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "description": "A BuckleScript wrapper for PixiJS",
   "keywords": [
-    "bucklescript", "pixijs"
+    "bucklescript",
+    "pixijs"
   ],
   "author": "Paul Carleton",
   "license": "MIT",
   "dependencies": {
+    "bs-platform": "1.4.1",
     "pixi.js": "4.3.0"
   }
 }
