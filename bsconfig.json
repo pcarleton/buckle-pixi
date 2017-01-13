@@ -1,5 +1,5 @@
 {
-    "name": "buckle-pixie",
+    "name": "buckle-pixi",
     "sources": { "dir": "src"},
     "generate-merlin": true
 }

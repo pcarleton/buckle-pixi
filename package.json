@@ -11,5 +11,8 @@
   "dependencies": {
     "bs-platform": "1.4.1",
     "pixi.js": "4.3.0"
+  },
+  "scripts": {
+      "build": "bsb"
   }
 }
